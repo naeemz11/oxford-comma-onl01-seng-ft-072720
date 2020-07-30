@@ -1,10 +1,4 @@
 
-#def oxford_comma(array)
-#if array.length == 1 
-  
-#end
-#end
-
 array = ["apple"]
 def oxford_comma(array)
   if array.length == 2
